@@ -1,5 +1,7 @@
+<div>
 <img src="https://img.shields.io/github/followers/davidcretois?logo=Github&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/twitter/follow/Laarsjan?logo=Twitter&style=for-the-badge">
+</div>
 
 # Simualtions-MCU
 This repository is the goal to create a software to receive information from CPU processors or MCU microcontrollers, I would make sure to have simulations with the Math and Tkinter module. Programmable with Python. Software in French! See it in README.md
